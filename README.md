@@ -1,4 +1,4 @@
-# 🏠 Predicting House Prices with Linear Regression
+# 🏠 Predicting House Prices with Linear Regression Project 3 Oasis Infobyte Data Analytics Internship
 
 ## 🏢 Internship Details
 - **Organization:** Oasis Infobyte
