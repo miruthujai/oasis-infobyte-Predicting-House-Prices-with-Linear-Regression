@@ -164,4 +164,5 @@ prices and build an accurate prediction model.
 🏷️ Tags
 `#oasisinfobyte` `#oasisinfobytefamily` `#internship`
 `#python` `#datacleaning` `#datanalytics` `#pandas`
-`#matplotlib` `#seaborn` `#datascience` `#NYC` `#airbnb`
+`#matplotlib` `#seaborn` `#datascience`
+
